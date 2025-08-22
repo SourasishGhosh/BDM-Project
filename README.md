@@ -59,3 +59,9 @@ The study uses **sales, SKU, inventory, and daily sales datasets** from 2024–2
 ---
 
 ## 📂 Repository Structure
+
+├── datasets/ # Raw and cleaned data files
+├── notebooks/ # Jupyter/Python scripts with analysis
+├── results/ # Plots, charts, and analysis outputs
+├── report/ # Full End-Term Report (PDF)
+└── README.md # Project documentation
