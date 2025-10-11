@@ -7,6 +7,11 @@
 ---
 
 ## 📖 Project Overview
+The project is distributed in 3 separate parts i.e.,
+* Proposal
+* Mid-Term
+* End-Term
+
 This project analyzes a real-world café business (*Ektu Baithak Café*) to identify challenges in **inventory management, wastage reduction, and profit optimization**.  
 The study uses **sales, SKU, inventory, and daily sales datasets** from 2024–2025 to perform statistical and predictive analyses.
 
